@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SicknessServ.Api", "SicknessServ.Api\SicknessServ.Api.csproj", "{856E7253-0CC4-4A57-B0EC-DDB36B0822EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SicknessServ.Application", "SicknessServ.Application\SicknessServ.Application.csproj", "{8BA7BB0A-2070-4484-98C7-A8E0F400A84D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SicknessServ.Domain", "SicknessServ.Domain\SicknessServ.Domain.csproj", "{DB32A2AE-877A-451C-8923-BBE83371C383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SicknessServ.Infrastructure", "SicknessServ.Infrastructure\SicknessServ.Infrastructure.csproj", "{E4AC301B-15C9-4B4D-A226-A3E578346FF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SicknessServ.Tests", "SicknessServ.Tests\SicknessServ.Tests.csproj", "{707C1092-F7BF-48D7-954B-7DBF98F127B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856E7253-0CC4-4A57-B0EC-DDB36B0822EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856E7253-0CC4-4A57-B0EC-DDB36B0822EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856E7253-0CC4-4A57-B0EC-DDB36B0822EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856E7253-0CC4-4A57-B0EC-DDB36B0822EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BA7BB0A-2070-4484-98C7-A8E0F400A84D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA7BB0A-2070-4484-98C7-A8E0F400A84D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA7BB0A-2070-4484-98C7-A8E0F400A84D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA7BB0A-2070-4484-98C7-A8E0F400A84D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB32A2AE-877A-451C-8923-BBE83371C383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB32A2AE-877A-451C-8923-BBE83371C383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB32A2AE-877A-451C-8923-BBE83371C383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB32A2AE-877A-451C-8923-BBE83371C383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4AC301B-15C9-4B4D-A226-A3E578346FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4AC301B-15C9-4B4D-A226-A3E578346FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4AC301B-15C9-4B4D-A226-A3E578346FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4AC301B-15C9-4B4D-A226-A3E578346FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{707C1092-F7BF-48D7-954B-7DBF98F127B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707C1092-F7BF-48D7-954B-7DBF98F127B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707C1092-F7BF-48D7-954B-7DBF98F127B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707C1092-F7BF-48D7-954B-7DBF98F127B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
